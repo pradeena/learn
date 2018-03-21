@@ -1,4 +1,5 @@
 <?php 
-phpinfo();
+echo '<input type="text" name="name">';
 
 ?>
+
